@@ -1,6 +1,6 @@
 
 // requires
-// - DHT11 lib
+// - DHT sensor library by Adafruit
 // - IRremote
 
 #include <ArduinoJson.h>
@@ -13,7 +13,7 @@
 
 
 #define BAUDRATE 38400
-#define PIN_DHT 2    // DHT11
+#define PIN_DHT 3    // DHT11
 #define PIN_PHOTO A0 // フォトトランジスタ
 
 DHT dht(PIN_DHT, DHT11);
