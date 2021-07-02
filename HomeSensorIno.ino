@@ -4,7 +4,7 @@
 
 #include <ArduinoJson.h>
 #include <DHT.h>
-#include "MHZ19.h"
+#include <MHZ19.h>
 #include <SoftwareSerial.h>
 
 #define BAUDRATE 38400
