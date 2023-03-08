@@ -16,4 +16,4 @@ sudo apt install screen
 
 The source code of this program is dual-licensed under MIT License and LGPL-3.0.
 
-When statically linking this program to [WifWaf/MH-Z19](https://github.com/WifWaf/MH-Z19), you need to apply LGPL-3.0 to the object code because the library is licensed under LGPL-3.0.
+When statically linking this program to [WifWaf/MH-Z19](https://github.com/WifWaf/MH-Z19), you should apply LGPL-3.0 to the object code because the library is licensed under LGPL-3.0.
